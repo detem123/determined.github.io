@@ -5,7 +5,7 @@
 ![hexo version](https://img.shields.io/badge/hexo-5.0.0+-0e83cd)
 ![license](https://img.shields.io/github/license/miiiku/hexo-theme-flexblock?color=1ab1ad)
 
-一个卡片类拟态风格的Hexo主题
+This is my third Blog !
 
 ![flex-block--home](./screenshots/flex-block--home.jpeg)
 
